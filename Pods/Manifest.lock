@@ -1,0 +1,29 @@
+PODS:
+  - lottie-ios (4.0.1)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - lottie-ios (from `https://github.com/airbnb/lottie-ios.git`, commit `79ae25e2f2f3420b3d3ed4f0d0aa17425f06ece2`)
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  lottie-ios:
+    :commit: 79ae25e2f2f3420b3d3ed4f0d0aa17425f06ece2
+    :git: https://github.com/airbnb/lottie-ios.git
+
+CHECKOUT OPTIONS:
+  lottie-ios:
+    :commit: 79ae25e2f2f3420b3d3ed4f0d0aa17425f06ece2
+    :git: https://github.com/airbnb/lottie-ios.git
+
+SPEC CHECKSUMS:
+  lottie-ios: 27114ac83e97fdfd00e89a2fd72956f46900d9af
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: e56542b95380ea90d5ea8fac886b09cb52ed813a
+
+COCOAPODS: 1.11.3
